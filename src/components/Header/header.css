@@ -3,7 +3,8 @@
     margin: 30px auto;
     background: url('../../assets/header_img.png') no-repeat;
     background-size: contain;
-    position: relative;overflow: 
+    position: relative;
+    overflow:none; 
 }
 .header-content{
     position: absolute;
@@ -22,15 +23,15 @@
     font-size: max(4.5vw,22px);
 }
 .header-content p{
-    color: #fff;
+    color: #ffffff;
     font-size: 1vw;
 }
 .header-content button{
     border: none;
-    color: #747474;
+    color: #ffffff;
     font-weight: 500;
     padding: 1vw 2.3vw;
-    background-color: #fff;
+    background-color: #26b801;
     font-size: max(1vw,13px);
     border-radius: 50px;
    
